@@ -17,22 +17,31 @@ box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
 
 }
 
+.titulo {
+
+font-family: "Oswald", sans-serif;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
+margin: -329px 0px 0px 0px;
+
+}
 .contenedorImg{
 
 width: 300px;
 height: 300px;
-margin: 0auto;
+margin: 25px 0px 0px 0px;
 }
 
+h3 {
 
-.letra {
-    font-family: "Oswald", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
-    margin 300000000000000px 0px 0px 0px;
-  }
+font-family: "Oswald", sans-serif;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
+margin: 300px 0px 0px 0px;
 
+}
 
 
 
