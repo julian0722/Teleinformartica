@@ -1,0 +1,20 @@
+body{
+    background-color: blue;
+
+
+}
+.contenedor{
+border-radius: 10px;
+width: 450px;
+height: 700px;
+margin:0 auto;
+background-color: yellow;
+padding: 10px;
+}.contenedor.img{
+    margin-left: -20px;
+    height: 40px;
+}
+
+
+
+
